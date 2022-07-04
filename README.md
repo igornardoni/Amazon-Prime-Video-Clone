@@ -1,4 +1,4 @@
-<img style="width: 100px; height: 100px;"src="img/prime-video.ico" alt="">
+<img "src="img/prime-video.ico" alt="">
 
 <h1 style="font-family: Arial; color:blue">Amazon Prime Video (Clone with API TheMovieDB)</h1>
 
