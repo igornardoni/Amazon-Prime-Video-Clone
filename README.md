@@ -1,3 +1,4 @@
+<img align="center" alt="Igor-CSS" height="150" width="150"  src="https://cdn.cdnlogo.com/logos/a/54/amazon-prime-video.svg"></a>
 <h1>Amazon Prime Video (Clone with API TheMovieDB)</h1>
 
 <p>Application created to gain experience in API integration.
