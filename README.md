@@ -1,8 +1,6 @@
-<img "src="img/prime-video.ico" alt="">
+<h1>Amazon Prime Video (Clone with API TheMovieDB)</h1>
 
-<h1 style="font-family: Arial; color:blue">Amazon Prime Video (Clone with API TheMovieDB)</h1>
-
-<p style="font-family: Arial">Application created to gain experience in API integration.
+<p>Application created to gain experience in API integration.
 The page was created with JavaScript, HTML and CSS using Flexbox properties. I didn't use any libraries or frameworks.
 Application created with strictly educational use, without any commercial intention!</p>
 
